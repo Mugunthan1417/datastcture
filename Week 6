@@ -7,7 +7,7 @@ Code:
 
 #define MAX_SIZE 100
 
-char stack[MAX_SIZE];
+char stack[MAX_SIZE];  
 int top = -1;
 
 void push(char value) {
