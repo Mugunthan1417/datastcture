@@ -4,7 +4,7 @@ Algorithm:
 
 CODE:-
 // C Program to implement Topological Sorting 
-#include <stdbool.h> 
+#include <stdbool.h>   
 #include <stdio.h> 
 #include <stdlib.h> 
 
