@@ -6,7 +6,7 @@ Display
 
 Algorithm:
   CODE:-
-#include <stdio.h>
+#include <stdio.h>  
 #include <stdlib.h>
 
 // Define a structure for the BST node
