@@ -6,7 +6,7 @@ Pop an element from a stack
 Return the Top most element from  a stack
 Display the elements in a stack
 
-Algorithm:
+Algorithm:  
 Code:
 
 Array Implementation:
