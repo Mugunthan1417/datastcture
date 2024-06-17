@@ -8,7 +8,7 @@ Postorder Traversal
    #include <stdio.h>
    #include <stdlib.h>
 struct Tree
-{ int ele;
+{ int ele;  
   struct Tree *left;
   struct Tree *right;};
 typedef struct Tree tree;
