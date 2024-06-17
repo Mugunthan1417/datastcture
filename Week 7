@@ -10,7 +10,7 @@ Display the elements in a Queue
 //Queue linked list
 #include <stdio.h>
 #include <stdlib.h>
-struct Queue 
+struct Queue   
 { int ele;
   struct Queue *next;};
 typedef struct Queue q;
