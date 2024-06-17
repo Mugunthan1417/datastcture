@@ -7,7 +7,7 @@ Algorithm:
 #include <stdlib.h>
 
 struct Node 
-{ 
+{   
     int key; 
     struct Node *left; 
     struct Node *right; 
